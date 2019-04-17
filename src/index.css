@@ -1,0 +1,17 @@
+body {
+  padding-bottom: 10em;
+}
+
+.page {
+  margin-top: 100px;
+}
+
+.interactions {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+form input {
+  margin-right: 1em;
+  margin-bottom: 2em;
+}
